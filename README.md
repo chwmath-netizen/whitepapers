@@ -19,7 +19,7 @@
 
 | 서사적 연출 (보호와 결의) | 학자풍 여성 (지적 분위기) |
 | :---: | :---: |
-| ![Narrative Scene](Gemini_Generated_Image_okla65okla65okla.png) | ![Scholar Female](Gemini_Generated_Image_20l5sg20l5sg20l5..png) |
+| ![Narrative Scene](Gemini_Generated_Image_okla65okla65okla.jpg) | ![Scholar Female](Gemini_Generated_Image_20l5sg20l5sg20l5.png) |
 
 #### 📐 페이셜 구조 및 디테일 제어 (Facial Structure Control)
 > '부드러운 각이 있는 턱선(Soft-square jawline)', '수평적 눈매' 등 CID 엔진의 해부학적 파라미터 적용 결과입니다.
