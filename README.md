@@ -40,7 +40,7 @@
 ### 📂 Repository Structure
 본 레포지토리(Whitepapers)는 S-Engine의 설계 사상과 연구 기록을 담고 있습니다.
 
-![Repo Structure](image_c5c60d.jpg)
+---
 
 # whitepapers
 ShadowK's foundational whitepapers.
